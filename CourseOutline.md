@@ -11,14 +11,14 @@ March 31, 2023
 Chapter 1 - Components of Transformer Architectures  
 - Lesson 1.1: Overview of Transformer Architectures  
   - Learner will be able to (LWBAT) sketch an overview of a transformer architecture with all key components  
-        - New functions and terms: Transformer  
-    Lesson 1.2: Encoder and Decoder Blocks  
-        - LWBAT describe the functions of encoder and decoder blocks  
-        - LWBAT create classes in Keras to define an encoder block and a decoder block  
-        - New functions and terms: Encoder block, decoder block, classes for encoder and decoder blocks in Keras  
-    Lesson 1.3 Attention Layers  
-        - LWBAT describe the function of the attention layers  
-        - New functions and terms: Attention layer  
+  - New functions and terms: Transformer  
+- Lesson 1.2: Encoder and Decoder Blocks  
+  - LWBAT describe the functions of encoder and decoder blocks  
+  - LWBAT create classes in Keras to define an encoder block and a decoder block  
+  - New functions and terms: Encoder block, decoder block, classes for encoder and decoder blocks in Keras  
+ - Lesson 1.3 Attention Layers  
+   - LWBAT describe the function of the attention layers  
+   - New functions and terms: Attention layer  
   
 Chapter 2 - Implementing Attention Layers  
     Lesson 2.1: How Self-Attention Works  
