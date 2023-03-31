@@ -25,10 +25,10 @@ Generative Adversarial Networks (GANs)
 - Marketing Description: 
   - This course lays the foundation for studies in Generative AI, the exciting domain currently earning headlines for breakthroughs in AI image and text generation. Industry experts will build on your knowledge of Deep Learning with Tensorflow and Keras to create cutting-edge GAN models through which machines produce incredible content.
 - Learning Objectives:
-1) Learner will be able to (LWBAT) describe how generators and discriminators work in GAN architectures
-2) LWBAT build a GAN architecture using Keras
-3) LWBAT apply augmentation techniques to NLP and image data
-4) LWBAT evaluate and fine-tune GAN models to improve performance
+  1) Learner will be able to (LWBAT) describe how generators and discriminators work in GAN architectures
+  2) LWBAT build a GAN architecture using Keras
+  3) LWBAT apply augmentation techniques to NLP and image data
+  4) LWBAT evaluate and fine-tune GAN models to improve performance
 
 Natural Language Processing (NLP) and Language Models
 - Marketing Description: 
