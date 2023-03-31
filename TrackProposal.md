@@ -21,6 +21,7 @@ March 31, 2023
   - Justification: Students need to understand key concepts in neural networks, and how to use Tensorflow and Keras to implement NNs
 
 **Courses in Detail:**  
+  
 **Generative Adversarial Networks (GANs)**
 * Marketing Description: 
   * This course lays the foundation for studies in Generative AI, the exciting domain currently earning headlines for breakthroughs in AI image and text generation. Industry experts will build on your knowledge of Deep Learning with Tensorflow and Keras to create cutting-edge GAN models through which machines produce incredible content.
