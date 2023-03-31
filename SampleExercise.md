@@ -20,12 +20,12 @@ Remember that in this attention mechanism the query works similarly to a "fuzzy"
 
 ```
 # Define the CrossAttention class as a subclass of the BaseAttention class.
-(LEARNER TASK 1)
+(CODE LINE FOR LEARNER TASK 1)
   def call(self, x, context):
 
     # Invoke the mha layer with the target sequence x as the query, and using the context sequence for both the key and the value.
     # Attention outputs from mha are stored for later. 
-    (LEARNER TASK 2)
+    (CODE LINE FOR LEARNER TASK 2)
 
     # Store the attention scores returned from mha for later.
     self.last_attn_scores = attn_scores
@@ -35,7 +35,7 @@ Remember that in this attention mechanism the query works similarly to a "fuzzy"
 
     # Perform the layer normalization function from the base attention class, using the output of the add step above. 
     # This also returns the modified tensor, as in the add step.
-    (LEARNER TASK 3)
+    (CODE LINE FOR LEARNER TASK 3)
 
     # Return the modified tensor
     return x
