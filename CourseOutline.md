@@ -9,8 +9,8 @@ March 31, 2023
     3) LWBAT train and test a transformer sequence-to-sequence model  
 
 Chapter 1 - Components of Transformer Architectures  
-    Lesson 1.1: Overview of Transformer Architectures  
-        - Learner will be able to (LWBAT) sketch an overview of a transformer architecture with all key components  
+- Lesson 1.1: Overview of Transformer Architectures  
+  - Learner will be able to (LWBAT) sketch an overview of a transformer architecture with all key components  
         - New functions and terms: Transformer  
     Lesson 1.2: Encoder and Decoder Blocks  
         - LWBAT describe the functions of encoder and decoder blocks  
