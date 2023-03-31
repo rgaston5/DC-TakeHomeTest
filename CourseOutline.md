@@ -37,33 +37,33 @@ Chapter 2 - Implementing Attention Layers
   - New functions and terms: Classes for global and causal self-attention layers in Keras  
   
 Chapter 3 - Other Components of Transformer Architectures  
-    Lesson 3.1: Embedding Layer  
-        - LWBAT describe the function of the embedding layer  
-        - LWBAT create a class for the embedding layer in Keras  
-        - New functions and terms: Class for embedding layer in Keras  
-    Lesson 3.2: Residual Add & Norm Blocks  
-        - LWBAT describe the function of the residual add & norm blocks  
-        - LWBAT create a class for an add & norm block in Keras  
-        - New functions and terms: Class for add & norm blocks in Keras  
-    Lesson 3.3: Feed Forward Networks  
-        - LWBAT describe the function of the feed forward networks  
-        - LWBAT create a class for the feed forward networks in Keras  
-        - New functions and terms: Class for feed forward networks in Keras  
-    Lesson 3.4: Complete Transformer Model  
-        - LWBAT combine the encoder and decoder blocks, with a final linear layer, to create the transformer  
-        - New functions and terms: Class for transformer in Keras  
+- Lesson 3.1: Embedding Layer  
+  - LWBAT describe the function of the embedding layer  
+  - LWBAT create a class for the embedding layer in Keras  
+  - New functions and terms: Class for embedding layer in Keras  
+- Lesson 3.2: Residual Add & Norm Blocks  
+  - LWBAT describe the function of the residual add & norm blocks  
+  - LWBAT create a class for an add & norm block in Keras  
+  - New functions and terms: Class for add & norm blocks in Keras  
+- Lesson 3.3: Feed Forward Networks  
+  - LWBAT describe the function of the feed forward networks  
+  - LWBAT create a class for the feed forward networks in Keras  
+  - New functions and terms: Class for feed forward networks in Keras  
+- Lesson 3.4: Complete Transformer Model  
+  - LWBAT combine the encoder and decoder blocks, with a final linear layer, to create the transformer  
+  - New functions and terms: Class for transformer in Keras  
   
 Chapter 4 - Training and Evaluating Transformer Sequence-to-Sequence Models  
-    Lesson 4.1: Set Up Optimizer  
-        - LWBAT create the Adam optimizer with a custom learning rate scheduler for transformers  
-    Lesson 4.2: Set Up Loss and Metrics  
-        - LWBAT apply padding mask and cross-entropy to calculate loss  
-    Lesson 4.3: Train and Test Model  
-        - LWBAT train then test model using various text sequences for input and output  
-    Lesson 4.4: Use and Fine-Tune Pre-trained Transformer Models  
-        - LWBAT describe benefits of using pre-trained model  
-        - LWBAT preprocess text data  
-        - LWBAT select pre-trained model from Hugging Face based on task type  
-        - LWBAT use Hugging Face Trainer to fine-tune model  
-        - New functions and terms: Hugging Face Trainer  
+- Lesson 4.1: Set Up Optimizer  
+  - LWBAT create the Adam optimizer with a custom learning rate scheduler for transformers  
+- Lesson 4.2: Set Up Loss and Metrics  
+  - LWBAT apply padding mask and cross-entropy to calculate loss  
+- Lesson 4.3: Train and Test Model  
+  - LWBAT train then test model using various text sequences for input and output  
+- Lesson 4.4: Use and Fine-Tune Pre-trained Transformer Models  
+  - LWBAT describe benefits of using pre-trained model  
+  - LWBAT preprocess text data  
+  - LWBAT select pre-trained model from Hugging Face based on task type  
+  - LWBAT use Hugging Face Trainer to fine-tune model  
+  - New functions and terms: Hugging Face Trainer  
   
