@@ -4,9 +4,9 @@ March 31, 2023
 **Course Outline - Transformers**
 
 **Course Learning Objectives:**  
-    1) LWBAT describe the functions of each key component of the transformer architecture  
-    2) LWBAT implement a transformer architecture with Tensorflow and Keras  
-    3) LWBAT train and test a transformer sequence-to-sequence model  
+1) LWBAT describe the functions of each key component of the transformer architecture  
+2) LWBAT implement a transformer architecture with Tensorflow and Keras  
+3) LWBAT train and test a transformer sequence-to-sequence model  
 
 Chapter 1 - Components of Transformer Architectures  
 - Lesson 1.1: Overview of Transformer Architectures  
