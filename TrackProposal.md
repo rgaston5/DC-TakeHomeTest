@@ -15,10 +15,10 @@ March 31, 2023
 7) Ethical Considerations around Generative AI
 
 **Prerequisites:**
-    - Machine Learning Fundamentals in Python track
-        - Justification: Students need to know Python, basics of ML such as training and tuning models, and key ML concepts in unsupervised learning especially
-    - Deep Learning in Python track 
-        - Justification: Students need to understand key concepts in neural networks, and how to use Tensorflow and Keras to implement NNs
+- Machine Learning Fundamentals in Python track
+  - Justification: Students need to know Python, basics of ML such as training and tuning models, and key ML concepts in unsupervised learning especially
+- Deep Learning in Python track 
+  - Justification: Students need to understand key concepts in neural networks, and how to use Tensorflow and Keras to implement NNs
 
 **Courses in Detail:**
 1) Generative Adversarial Networks (GANs)
