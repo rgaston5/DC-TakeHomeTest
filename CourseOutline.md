@@ -21,20 +21,20 @@ Chapter 1 - Components of Transformer Architectures
    - New functions and terms: Attention layer  
   
 Chapter 2 - Implementing Attention Layers  
-    Lesson 2.1: How Self-Attention Works  
-        - LWBAT calculate self-attention using vectors  
-        - LWBAT use matrices to implement self-attention  
-        - New functions and terms: Self-attention  
-    Lesson 2.2: Implement Base Attention Layer  
-        - LWBAT create a class for the base attention layer in Keras  
-        - New functions and terms: Class for base attention layer in Keras  
-    Lesson 2.3: Implement Cross Attention Layer  
-        - LWBAT create a class for the cross attention layer in Keras   
-        - New functions and terms: Class for cross attention layer in Keras  
-    Lesson 2.4: Implement Global and Causal Self-Attention Layers  
-        - LWBAT create a class for the global self-attention layer in Keras  
-        - LWBAT create a class for the causal self-attention layer in Keras  
-        - New functions and terms: Classes for global and causal self-attention layers in Keras  
+- Lesson 2.1: How Self-Attention Works  
+  - LWBAT calculate self-attention using vectors  
+  - LWBAT use matrices to implement self-attention  
+  - New functions and terms: Self-attention  
+- Lesson 2.2: Implement Base Attention Layer  
+  - LWBAT create a class for the base attention layer in Keras  
+  - New functions and terms: Class for base attention layer in Keras  
+- Lesson 2.3: Implement Cross Attention Layer  
+  - LWBAT create a class for the cross attention layer in Keras   
+  - New functions and terms: Class for cross attention layer in Keras  
+- Lesson 2.4: Implement Global and Causal Self-Attention Layers  
+  - LWBAT create a class for the global self-attention layer in Keras  
+  - LWBAT create a class for the causal self-attention layer in Keras  
+  - New functions and terms: Classes for global and causal self-attention layers in Keras  
   
 Chapter 3 - Other Components of Transformer Architectures  
     Lesson 3.1: Embedding Layer  
